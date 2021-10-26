@@ -2,7 +2,7 @@
 
 meu nome é felipe, mas pode me chamar de graebin!
 
-meus pronomes são ele e dele
+meus pronomes são ele/dele
 
 sou estudante de sistemas de informações e tenho como foco o estudo de ferramentas back-end, REST e data science :telescope:
 
