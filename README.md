@@ -12,12 +12,12 @@ sou estudante de sistemas de informações e tenho como foco o estudo de ferrame
 ![Jupyter](https://img.shields.io/badge/-Jupyter-important?&style=for-the-badge&logo=jupyter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-green?&style=for-the-badge&logo=spring&logoColor=white) <br>
+![Spring](https://img.shields.io/badge/-Spring-green?&style=for-the-badge&logo=spring&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-informatical?&style=for-the-badge&logo=eclipse&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?&style=for-the-badge&logo=angular&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
