@@ -4,7 +4,7 @@ meu nome é felipe, mas pode me chamar de graebin!
 
 meus pronomes são ele/dele
 
-sou estudante de sistemas de informações e tenho como foco o estudo de ferramentas back-end, REST e data science :telescope:
+sou estudante de sistemas de informações e tenho como foco o estudo de ferramentas back-end, REST, front-end com HTML, CSS, TypeScript, componentização com Angular e data science :telescope:
 
 <hr>
 
